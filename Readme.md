@@ -1,0 +1,1 @@
+## Note:[EVM Principles](https://yukijuda111.github.io/note/blockchain/solidity/EVM/)
